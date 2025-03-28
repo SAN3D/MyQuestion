@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Question Paper Repository</string>
+    <string name="welcome_message">Welcome to Question Paper Repository</string>
+    <string name="select_faculty">Select Faculty</string>
+    <string name="select_semester">Select Semester</string>
+    <string name="select_year">Select Year</string>
+    <string name="search_hint">Search question papers...</string>
+    <string name="upload_button">Upload Paper</string>
+    <string name="view_button">View Papers</string>
+    <string name="pdf_viewer_title">Question Paper</string>
+    <string name="share_pdf">Share PDF</string>
+</resources>
